@@ -183,4 +183,8 @@
     display: block;
     cursor: pointer;
   }
+
+  #mobile-menu.is-active .bar:nth-child(2) {
+    opacity: 0;
+  }
 }
