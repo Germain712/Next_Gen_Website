@@ -504,3 +504,11 @@
   width: 160px;
   box-sizing: border-box;
 }
+
+.footer__link--items h2 {
+  margin: 16px;
+}
+
+.footer__link--items > h2 {
+  color: #fff;
+}
